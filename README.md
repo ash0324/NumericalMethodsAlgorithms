@@ -1,6 +1,6 @@
 # NumericalMethodsAlgorithms
 ## Description
-* Repository containing three numerical methods algorithms I created
+* Repository containing three MatLab numerical methods algorithms I created
 * Each folder contains an algorithm along with a README.md file offering a brief description of each algorithm
 ## Contents
 * **falsePosition** - Performs falsePosition method to calculate roots of a function with user control over error and iteration count
